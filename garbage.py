@@ -1,3 +1,3 @@
-import numpy as numpy
+import numpy as pd
 
 
